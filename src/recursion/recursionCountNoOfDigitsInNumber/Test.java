@@ -1,4 +1,4 @@
-package recursionCountNoOfDigitsInNumber;
+package recursion.recursionCountNoOfDigitsInNumber;
 
 import java.util.Scanner;
 
